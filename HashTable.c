@@ -6,6 +6,13 @@
  */
 
 /*
- * implements the Hash Table data structure to store variable names (key) and
- * their value (value)
+ * implements the Hash Table data structure to store
+ * variable names (key) and their value (value)
+ *
+ * it can store pointer to linked lists where the lists
+ * has the variable itself
  */
+
+
+
+
